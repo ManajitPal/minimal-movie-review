@@ -1,0 +1,49 @@
+/* Empty. Add your own CSS if you like */
+body {
+  font-family: 'Roboto',sans-serif;
+
+}
+
+.custom-icon {
+  color:#EF473A;
+}
+
+.custom-margin {
+  margin-top:40px;
+}
+
+
+.light {
+  font-weight:100;
+}
+
+.custom {
+  border: none;
+}
+
+.custon.activated {
+  border-color:none;
+  background-color:none;
+}
+
+.movie-info {
+  font-size:15px;
+}
+
+h1.movie-title {
+  margin:0;
+  display:inline-block;
+}
+
+a.video-icon {
+  font-size:30px;
+  margin-top:10px;
+  margin-left:10px;
+}
+
+input.custom-field {
+  margin-left:20px;
+  width:100%;
+  font-size:20px;
+  padding:10px;
+}
